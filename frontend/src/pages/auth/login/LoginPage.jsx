@@ -97,6 +97,12 @@ const LoginPage = () => {
 						<button className='btn rounded-full btn-primary text-white btn-outline w-full'>Sign up</button>
 					</Link>
 				</div>
+				<div className='flex flex-col gap-2 mt-4'>
+					<p className='text-white text-lg'>Testcase:
+						<div>username: johndoe</div>
+						password: 545454
+					</p>
+				</div>
 			</div>
 		</div>
 	);
