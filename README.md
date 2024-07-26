@@ -5,17 +5,17 @@ WhatsTheWord is a robust Twitter-clone app designed to provide a seamless and en
 
 ## Features
 
-- **Fully Responsive UI**: Designed with Tailwind CSS and DaisyUI to ensure optimal performance and aesthetics across all devices.
-- **JWT Token Authentication**: Secure user authentication and authorization to protect user data and enhance security.
-- **React-hot-toast**: Smooth and interactive toast notifications for a better user experience.
-- **Password Encryption**: Utilizes Bcrypt to salt and hash passwords, ensuring secure storage of user credentials.
-- **Create Posts with Images**: Users can create and share posts with images, enhancing their interaction experience.
-- **Comment and Interact**: Users can comment on other users' posts and interact with them, fostering engagement and communication.
-- **Track Likes on User Profiles**: Users can view and track the number of likes their posts receive directly from their profile page.
-- **Suggested Users**: The application suggests relevant users to follow based on user activity and interests.
-- **View Your Own Posts**: Users can view their own posts separately, providing a personalized experience.
-- **Track Liked Posts**: Users can track the number of posts they have liked, keeping a record of their interactions.
-
+- **🔍 Fully Responsive UI**: Designed with Tailwind CSS and DaisyUI to ensure optimal performance and aesthetics across all devices.
+- **🖼️ Create Posts with Images**: Users can create and share posts with images, enhancing their interaction experience.
+- **👍 Track Likes on User Profiles**: Users can view and track the number of likes their posts receive directly from their profile page.
+- **🔍 Suggested Users**: The application suggests relevant users to follow based on user activity and interests.
+- **📂 View Your Own Posts**: Users can view their own posts separately, providing a personalized experience.
+- **❤️ Track Liked Posts**: Users can track the number of posts they have liked, keeping a record of their interactions.
+- **🔒 Password Encryption**: Utilizes Bcrypt to salt and hash passwords, ensuring secure storage of user credentials.
+- **💬 Comment and Interact**: Users can comment on other users' posts and interact with them, fostering engagement and communication.
+- **🔐 JWT Token Authentication**: Secure user authentication and authorization to protect user data and enhance security.
+- **📬 React-hot-toast**: Smooth and interactive toast notifications for a better user experience.
+  
 
 ## Tech Stack
 
