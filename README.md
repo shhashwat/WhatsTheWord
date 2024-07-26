@@ -5,10 +5,15 @@ WhatsTheWord is a robust Twitter-clone app designed to provide a seamless and en
 
 ## Features
 Fully Responsive UI: Designed with Tailwind CSS and DaisyUI to ensure optimal performance and aesthetics across all devices.
+
 JWT Token Authentication: Secure user authentication and authorization to protect user data and enhance security.
+
 React-hot-toast: Smooth and interactive toast notifications for a better user experience.
+
 React Query: Efficient management of server state with caching mechanisms for smoother updates.
+
 Password Encryption: Utilizes Bcrypt to salt and hash passwords, ensuring secure storage of user credentials.
+
 Notification Management: Functionality to delete notifications (not showcased in the demo).
 
 ## Tech Stack
