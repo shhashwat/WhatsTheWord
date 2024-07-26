@@ -6,6 +6,7 @@ WhatsTheWord is a robust Twitter-clone app designed to provide a seamless and en
 ## Features
 
 - **🔍 Fully Responsive UI**: Designed with Tailwind CSS and DaisyUI to ensure optimal performance and aesthetics across all devices.
+-**🗑️ Delete Unwanted data: Users can choose to delete the data that they want to keep on their profile, they can delete all of their notifications and they can delete their individual posts.
 - **🖼️ Create Posts with Images**: Users can create and share posts with images, enhancing their interaction experience.
 - **👍 Track Likes on User Profiles**: Users can view and track the number of likes their posts receive directly from their profile page.
 - **🔍 Suggested Users**: The application suggests relevant users to follow based on user activity and interests.
