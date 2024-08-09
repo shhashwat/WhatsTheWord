@@ -41,4 +41,4 @@ Users receive notifications for interactions and can clear them if needed.
 Visit the live application: [WhatsTheWord Live](https://whatstheword.onrender.com/)
 
 
-LinkedIn Post with app demo video: [LinkedIn post](https://www.linkedin.com/posts/shashwat-singh-742381245_mern-jwt-tailwindcss-activity-7221606932422242305-k66t?utm_source=share&utm_medium=member_desktop)
+LinkedIn Post with app demo video:[LinkedIn post](https://www.linkedin.com/posts/shashwat-singh-742381245_mern-jwt-tailwindcss-activity-7221606932422242305-k66t?utm_source=share&utm_medium=member_desktop)
